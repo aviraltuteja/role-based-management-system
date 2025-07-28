@@ -1,0 +1,30 @@
+# Node
+node_modules/
+.next/
+dist/
+build/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+.venv/
+venv/
+
+# Docker
+*.pid
+*.log
+
+# Frontend-specific
+frontend/node_modules/
+frontend/.next/
+frontend/dist/
+frontend/build/
+
+# Secrets
+
+# OS/IDE
+.DS_Store
+.vscode/
+.idea/
